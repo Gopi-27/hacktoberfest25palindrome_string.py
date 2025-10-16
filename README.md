@@ -1,0 +1,1 @@
+# hacktoberfest25palindrome_string.py
